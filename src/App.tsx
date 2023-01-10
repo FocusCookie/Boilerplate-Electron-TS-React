@@ -3,7 +3,7 @@ import * as React from "react";
 
 const App = (): React.ReactElement => (
   <div>
-    <p>React + Tailwind + Typescript + Electron = ❤</p>
+    <p>React + Typescript + Electron = ❤</p>
 
     {window.electronAPI.desktop && (
       <span>browser: {window.electronAPI.desktop.toString()}</span>
