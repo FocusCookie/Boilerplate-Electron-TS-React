@@ -1,1 +1,1 @@
-# Boilerplate---Electron---TS---React
+# Boilerplate - Electron - TS - React
